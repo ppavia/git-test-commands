@@ -1,1 +1,2 @@
 Text in a file in a folder 
+edition n.2 on master
