@@ -1,2 +1,5 @@
 Text in a file in a folder 
 edition n.2 on master
+====> From BR-01
+modify on branch BR-01
+edition n°2
